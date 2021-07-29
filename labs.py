@@ -1,3 +1,2 @@
-From models.config import exp
-
+from models.config import exp
 model_dir = 'models'
