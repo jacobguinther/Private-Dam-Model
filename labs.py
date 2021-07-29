@@ -1,3 +1,3 @@
 From models.config import exp
 
-model_dir = ‘models’
+model_dir = 'models'
